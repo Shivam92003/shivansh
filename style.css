@@ -261,6 +261,11 @@ nav img{
   background-color: rgb(255, 255, 255);
   color: #1A1A1D;
 }
+
+.button:hover{
+  box-shadow: 0 0 5px cyan,
+  
+}
 /*-----process-----*/
 
 .donateabout{
