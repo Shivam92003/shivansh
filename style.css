@@ -262,9 +262,9 @@ nav img{
   color: #1A1A1D;
 }
 
-.button:hover{
+.button button :hover{
   box-shadow: 0 0 5px cyan,
-  
+
 }
 /*-----process-----*/
 
