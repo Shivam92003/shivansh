@@ -256,17 +256,25 @@ nav img{
    left: 17%;
    transform: translate(-50%,-50%);
    text-align: center;
-}
+} */
 
 
-.button button:active{
+/* .button button:active{
   background-color: rgb(255, 255, 255);
   color: #1A1A1D;
 }
-.button .button:hover{
+
+
+
+.button button:hover{
   background-color: #bb0a1e;
   box-shadow: 0 0 10px 4px #ff004c;
 }
+
+
+
+
+
 
 
 /*-----process-----*/
@@ -788,6 +796,7 @@ nav img{
   display: flex;
 }
 .footer div{
+  margin-left: 35px;
   text-align: left;
   font-weight: bolder;
 }
@@ -803,7 +812,7 @@ nav img{
 .col-1 a{
   display:block;
   text-decoration: none;
-  color: #525252;
+  color: white;
   margin-bottom: 10px;
   font-weight: bolder;
 }
